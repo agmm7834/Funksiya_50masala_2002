@@ -46,7 +46,7 @@
 39. Matn qo‘shish: Matn va qo‘shimcha qabul qilib, ularni biriktirib qaytaradigan funksiya yasa (standart qo‘shimcha "!").
 40. Salomlashuv bilan standart: Ism qabul qilib, "Xush kelibsiz, [ism]!" xabarini qaytaradigan funksiya yasa (standart ism "Mehmon").
 
-#41–50: Ilovali masalalar
+# 41–50: Ilovali masalalar
 41. Juftlik tekshirish: Raqam qabul qilib, uning juft ekanini qaytaradigan funksiya yasa.
 42. Tenglik tekshirish: Ikki raqam qabul qilib, ularning teng ekanini qaytaradigan funksiya yasa.
 43. Katta harf: Matn qabul qilib, uni katta harflarga aylantirib qaytaradigan funksiya yasa.
