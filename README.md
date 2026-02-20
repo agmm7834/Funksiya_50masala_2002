@@ -1,4 +1,4 @@
-1–10: Parametrsiz funksiyalar
+# 1–10: Parametrsiz funksiyalar
 1. Salomlashuv: "Salom, dunyo!" xabarini konsolga chiqaradigan funksiya yasa.
 2. Raqam ko‘rsatish: 100 raqamini konsolga chiqaradigan funksiya yasa.
 3. Motivatsiya xabari: "Siz muvaffaqiyat sari yurasiz!" xabarini chiqaradigan funksiya yasa.
@@ -9,7 +9,8 @@
 8. Boshlanish xabari: "Dastur ishga tushdi!" xabarini konsolga chiqaradigan funksiya yasa.
 9. Tasodifiy salom: "Bugun yaxshi kun!" xabarini konsolga chiqaradigan funksiya yasa.
 10. Oddiy chiqarish: "Xush kelibsiz!" xabarini konsolga chiqaradigan funksiya yasa.
-11–20: Parametrli funksiyalar
+
+# 11–20: Parametrli funksiyalar
 11. Ism bilan salom: Ism qabul qilib, "Salom, [ism]!" xabarini konsolga chiqaradigan funksiya yasa.
 12. Raqam chiqarish: Berilgan raqamni konsolga chiqaradigan funksiya yasa.
 13. Ikkita raqam qo‘shish: Ikki raqam qabul qilib, ularning yig‘indisini konsolga chiqaradigan funksiya yasa.
@@ -20,7 +21,8 @@
 18. Ismga qo‘shimcha: Ism qabul qilib, "Hurmatli [ism]!" xabarini konsolga chiqaradigan funksiya yasa.
 19. Ko‘paytirish: Ikki raqam qabul qilib, ularning ko‘paytmasini konsolga chiqaradigan funksiya yasa.
 20. Bo‘lish: Ikki raqam qabul qilib, ularning bo‘linmasini konsolga chiqaradigan funksiya yasa.
-21–30: `return` bilan funksiyalar
+
+# 21–30: `return` bilan funksiyalar
 21. Qo‘shish natijasi: Ikki raqam qabul qilib, ularning yig‘indisini qaytaradigan funksiya yasa.
 22. Kvadrat qaytarish: Raqam qabul qilib, uning kvadratini qaytaradigan funksiya yasa.
 23. Ism uzunligi: Ism qabul qilib, uning uzunligini qaytaradigan funksiya yasa.
@@ -31,7 +33,8 @@
 28. Bo‘lish natijasi: Ikki raqam qabul qilib, ularning bo‘linmasini qaytaradigan funksiya yasa.
 29. Tasodifiy raqam: 1 dan 10 gacha tasodifiy raqam qaytaradigan funksiya yasa.
 30. Salom qaytarish: Ism qabul qilib, "Salom, [ism]!" xabarini qaytaradigan funksiya yasa.
-31–40: Standart parametrli funksiyalar
+
+# 31–40: Standart parametrli funksiyalar
 31. Salom bilan standart: Ism qabul qilib, agar ism berilmasa, "Dost" ismini ishlatib "Salom, [ism]!" xabarini chiqaradigan funksiya yasa.
 32. Daraja: Raqam va daraja qabul qilib, raqamning darajaga ko‘tarilgan qiymatini qaytaradigan funksiya yasa (standart daraja 2).
 33. Matn takrorlash: Matn va takrorlanish soni qabul qilib, matnni shu sonida takrorlab qaytaradigan funksiya yasa (standart son 2).
@@ -42,7 +45,8 @@
 38. Raqam tekshirish: Raqam va chegara qabul qilib, raqam chegaradan kattaligini qaytaradigan funksiya yasa (standart chegara 0).
 39. Matn qo‘shish: Matn va qo‘shimcha qabul qilib, ularni biriktirib qaytaradigan funksiya yasa (standart qo‘shimcha "!").
 40. Salomlashuv bilan standart: Ism qabul qilib, "Xush kelibsiz, [ism]!" xabarini qaytaradigan funksiya yasa (standart ism "Mehmon").
-41–50: Ilovali masalalar
+
+#41–50: Ilovali masalalar
 41. Juftlik tekshirish: Raqam qabul qilib, uning juft ekanini qaytaradigan funksiya yasa.
 42. Tenglik tekshirish: Ikki raqam qabul qilib, ularning teng ekanini qaytaradigan funksiya yasa.
 43. Katta harf: Matn qabul qilib, uni katta harflarga aylantirib qaytaradigan funksiya yasa.
